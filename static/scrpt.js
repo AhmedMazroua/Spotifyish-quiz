@@ -14,12 +14,12 @@ const questions = [
     answers: [
       { text: "Total eclipse of the heart", correct: false },
       { text: "Ribbon in the sky", correct: true },
-      { text: "Detroit Rockcity", correct: false },
+      { text: "Detroit Rock city", correct: false },
       { text: "P.Y.T", correct: false },
     ],
   },
   {
-    question: "Prince's '1999' was apart of what album? ",
+    question: "Prince's '1999' is from what album? ",
     answers: [
       { text: "Purple Rain", correct: true },
       { text: "Bad", correct: false },
@@ -71,12 +71,9 @@ function notify(msg, color) {
   }, 3000);
 }
 
-// function to initiate quiz
-function mainPage() {
-  window.location = "templates/index.html";
-}
-
 function startQuiz() {
+  currentQuesIndex = 0;
+  score = 0;
   nextButton.innerHTML = "Next";
   showQuestion();
 }
