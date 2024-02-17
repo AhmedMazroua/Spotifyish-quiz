@@ -2,7 +2,6 @@
 #### Video Demo:  <https://youtu.be/X8ky0Gnm05Y>
 #### Description:
 
-Care to play? Visit the project here: https://ahmedmazroua.github.io/Spotifyish-quiz/
 
 
 
@@ -11,6 +10,8 @@ Care to play? Visit the project here: https://ahmedmazroua.github.io/Spotifyish-
 This project is a quiz built to test the musical knowledge of its participants. Utilizing a front-end of `Javascript`,`HTML` and `css`.
 
 While `Flask` and `python` is utilized for the backend.
+
+Care to play? Visit the project here: https://ahmedmazroua.github.io/Spotifyish-quiz/
 
 
 
