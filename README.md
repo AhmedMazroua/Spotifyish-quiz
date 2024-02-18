@@ -4,8 +4,12 @@
 
 
 
+<img width="1710" alt="Screenshot 2024-02-17 at 9 10 05 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/6ad4a76a-b398-41b9-a7a4-daa39d24f9c8"><img width="1320" alt="Screenshot 2024-02-17 at 9 08 58 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/20ae5654-7ef7-4476-99b7-5f501c42a9e3"><img width="1311" alt="Screenshot 2024-02-17 at 9 10 52 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/880c7f8c-dcf6-418c-a85f-7fcf16f3d149">
+
+
 
 ### 1   |   What is it?
+
 ![](/project/static/photos/Quiz.png)
 This project is a quiz built to test the musical knowledge of its participants. Utilizing a front-end of `Javascript`,`HTML` and `css`.
 
