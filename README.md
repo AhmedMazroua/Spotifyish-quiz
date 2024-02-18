@@ -5,7 +5,7 @@
 
 ### 1   |   What is it?
 
-<img width="1312" alt="Screenshot 2024-02-17 at 9 15 46 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/f6a6e38d-29ce-4c5f-884d-3b687bce9dde">
+<img width="1308" alt="Screenshot 2024-02-17 at 9 17 16 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/8018d7c1-fddf-4ad8-a234-d726ba5b277e">
 <img width="1320" alt="Screenshot 2024-02-17 at 9 08 58 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/20ae5654-7ef7-4476-99b7-5f501c42a9e3">
 <img width="1311" alt="Screenshot 2024-02-17 at 9 10 52 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/880c7f8c-dcf6-418c-a85f-7fcf16f3d149">
 
