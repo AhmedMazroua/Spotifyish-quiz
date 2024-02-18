@@ -3,11 +3,11 @@
 #### Description:
 
 
-<img width="574" alt="Screenshot 2024-02-11 at 4 34 01 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/18eeb3f3-d3c8-435e-8ca3-7b72d451fa7c"><img width="1320" alt="Screenshot 2024-02-17 at 9 08 58 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/20ae5654-7ef7-4476-99b7-5f501c42a9e3"><img width="1311" alt="Screenshot 2024-02-17 at 9 10 52 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/880c7f8c-dcf6-418c-a85f-7fcf16f3d149">
-
-
-
 ### 1   |   What is it?
+
+<img width="1324" alt="Screenshot 2024-02-17 at 9 13 58 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/1ee12e61-9a0f-413b-b93b-8888ca74c722">
+<img width="1320" alt="Screenshot 2024-02-17 at 9 08 58 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/20ae5654-7ef7-4476-99b7-5f501c42a9e3">
+<img width="1311" alt="Screenshot 2024-02-17 at 9 10 52 PM" src="https://github.com/AhmedMazroua/Spotifyish-quiz/assets/126991045/880c7f8c-dcf6-418c-a85f-7fcf16f3d149">
 
 ![](/project/static/photos/Quiz.png)
 This project is a quiz built to test the musical knowledge of its participants. Utilizing a front-end of `Javascript`,`HTML` and `css`.
